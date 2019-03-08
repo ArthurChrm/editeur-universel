@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 07 Mar 2019 16:07:04 -0500
+Source: editeuruniversel
+Binary: editeuruniversel
+Architecture: source amd64
+Version: 1.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: root <arthur.cheramy@gmail.com>
+Changed-By: root <arthur.cheramy@gmail.com>
+Description:
+ editeuruniversel - <insert up to 60 chars description>
+Changes:
+ editeuruniversel (1.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 4ec6cc3cbeeb5f35b1b2bcb61caacb8a6b4e1721 884 editeuruniversel_1.1-1.dsc
+ 3be4410e7b721740d073797cfd1a8d91e40d6dd1 15360 editeuruniversel_1.1.orig.tar.xz
+ eef90f7ed385719b2711fc3f37b4e97f626476a7 7604 editeuruniversel_1.1-1.debian.tar.xz
+ 6d9e5731442938090c85db6d571416dc49843517 492020 editeuruniversel-dbgsym_1.1-1_amd64.ddeb
+ 1ed920d07b8dbac2975487a1c5774261a3baffbd 6180 editeuruniversel_1.1-1_amd64.buildinfo
+ 8967d94de6eb75e813449fdfef71713d2f3dbaa6 25216 editeuruniversel_1.1-1_amd64.deb
+Checksums-Sha256:
+ 51454260de6c0197668ebd0e8f8b8f690f5c09995b7d44c406da2195e4bd885e 884 editeuruniversel_1.1-1.dsc
+ 02c53b4e38579aa0b0b5a28877d10699cf52f4c66b6191c64a389c472cbd3f5f 15360 editeuruniversel_1.1.orig.tar.xz
+ 64e88b05e9f42b721b31a87a987387d84fc6c51d7dc87c2675fe9fe6490875fb 7604 editeuruniversel_1.1-1.debian.tar.xz
+ fcb08076cc1c0c073e93f3c4ef76579591d6a716b6b1740c2fb1608ebe84ed8e 492020 editeuruniversel-dbgsym_1.1-1_amd64.ddeb
+ bf56e0f3cf2a1783ffd8a9e0c89bcaea12069633590fe3b1d77597e79bafc036 6180 editeuruniversel_1.1-1_amd64.buildinfo
+ cd232a19f598ea6af615b07979796cd18e3f3d08cf70b5ee71ecc854b4283a0a 25216 editeuruniversel_1.1-1_amd64.deb
+Files:
+ 00c3660c7a7d52046324cb3e0d05ec9d 884 unknown optional editeuruniversel_1.1-1.dsc
+ d38a74f737d9ea93f12fe267e950e987 15360 unknown optional editeuruniversel_1.1.orig.tar.xz
+ 8912ff49c2c158de016e7cea1504af59 7604 unknown optional editeuruniversel_1.1-1.debian.tar.xz
+ 5476fce3a21fae902fb17645432d709c 492020 debug optional editeuruniversel-dbgsym_1.1-1_amd64.ddeb
+ 4cefa189a49123c7485134293c91dcef 6180 unknown optional editeuruniversel_1.1-1_amd64.buildinfo
+ 4a15e6603ba1e3a014a7fc206690cab4 25216 unknown optional editeuruniversel_1.1-1_amd64.deb

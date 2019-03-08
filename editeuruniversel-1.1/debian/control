@@ -1,0 +1,15 @@
+Source: editeuruniversel
+Section: unknown
+Priority: optional
+Maintainer: root <arthur.cheramy@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/editeuruniversel.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/editeuruniversel.git
+
+Package: editeuruniversel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
